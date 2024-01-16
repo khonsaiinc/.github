@@ -1,4 +1,5 @@
-## Hi there, it's konsai team, our student developer focus on aquamarine codename, it's final thesis in university
+## Hi there, 
+it's konsai team, our student developer focus on aquamarine codename, it's final thesis in university
 
 <!--
 
